@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\Atividade_01.1.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\Atividade_01.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\Atividade_01.1.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\Atividade_01.1.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\Atividade_01.1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\bin\Debug\net7.0\Atividade_01.1.exe
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\bin\Debug\net7.0\Atividade_01.1.deps.json
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\bin\Debug\net7.0\Atividade_01.1.runtimeconfig.json
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\bin\Debug\net7.0\Atividade_01.1.dll
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\bin\Debug\net7.0\Atividade_01.1.pdb
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\Atividade_01.1.dll
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\refint\Atividade_01.1.dll
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\Atividade_01.1.pdb
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\Atividade_01.1.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\csharp\aula_02\Atividade_01.1\obj\Debug\net7.0\ref\Atividade_01.1.dll
