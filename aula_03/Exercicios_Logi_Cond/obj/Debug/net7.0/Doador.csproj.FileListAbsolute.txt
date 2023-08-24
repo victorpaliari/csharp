@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\bin\Debug\net7.0\Doador.exe
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\bin\Debug\net7.0\Doador.deps.json
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\bin\Debug\net7.0\Doador.runtimeconfig.json
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\bin\Debug\net7.0\Doador.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\bin\Debug\net7.0\Doador.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\Doador.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\Doador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\Doador.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\Doador.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\Doador.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\Doador.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\refint\Doador.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\Doador.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\Doador.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicios_Logi_Cond\obj\Debug\net7.0\ref\Doador.dll
