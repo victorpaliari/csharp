@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\bin\Debug\net7.0\Empresa.exe
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\bin\Debug\net7.0\Empresa.deps.json
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\bin\Debug\net7.0\Empresa.runtimeconfig.json
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\bin\Debug\net7.0\Empresa.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\bin\Debug\net7.0\Empresa.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\Empresa.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\Empresa.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\Empresa.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\refint\Empresa.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\Empresa.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\Empresa.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Empresa\obj\Debug\net7.0\ref\Empresa.dll
