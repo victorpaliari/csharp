@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\bin\Debug\net7.0\Exercicio02_ParOuImpar.exe
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\bin\Debug\net7.0\Exercicio02_ParOuImpar.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\bin\Debug\net7.0\Exercicio02_ParOuImpar.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\bin\Debug\net7.0\Exercicio02_ParOuImpar.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\bin\Debug\net7.0\Exercicio02_ParOuImpar.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\Exercicio02_ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\Exercicio02_ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\Exercicio02_ParOuImpar.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\Exercicio02_ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\Exercicio02_ParOuImpar.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\refint\Exercicio02_ParOuImpar.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\Exercicio02_ParOuImpar.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\Exercicio02_ParOuImpar.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio02_ParOuImpar\obj\Debug\net7.0\ref\Exercicio02_ParOuImpar.dll

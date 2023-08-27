@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\bin\Debug\net7.0\Exercicio04_AnaliseDados.exe
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\bin\Debug\net7.0\Exercicio04_AnaliseDados.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\bin\Debug\net7.0\Exercicio04_AnaliseDados.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\bin\Debug\net7.0\Exercicio04_AnaliseDados.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\bin\Debug\net7.0\Exercicio04_AnaliseDados.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\Exercicio04_AnaliseDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\Exercicio04_AnaliseDados.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\Exercicio04_AnaliseDados.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\Exercicio04_AnaliseDados.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\Exercicio04_AnaliseDados.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\refint\Exercicio04_AnaliseDados.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\Exercicio04_AnaliseDados.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\Exercicio04_AnaliseDados.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_04\Exercicio04_AnaliseDados\obj\Debug\net7.0\ref\Exercicio04_AnaliseDados.dll
