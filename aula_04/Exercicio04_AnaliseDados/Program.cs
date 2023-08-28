@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             int idade, identGen, cargo, total = 0;
-            int backend = 0, frontend = 0, mobile = 0, fullstack = 0;
-            int mulhercis = 0, mulhertrans = 0, homemcis = 0, homemtrans = 0, naobinario = 0, outro = 0, mulherFrontend = 0, homemMobileMais40 = 0, naoBinarioMenos30 = 0;
+            int backend = 0;
+            int mulherFrontend = 0, homemMobileMais40 = 0, naoBinarioMenos30 = 0;
             string? sim = "S";
 
             while (sim == "S") { 

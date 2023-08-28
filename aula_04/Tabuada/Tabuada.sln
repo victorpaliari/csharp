@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada.csproj", "{367AADF4-C473-42DB-BD0A-940E3447DCCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuada", "Tabuada.csproj", "{367AADF4-C473-42DB-BD0A-940E3447DCCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabuadaWhile", "..\TabuadaWhile\TabuadaWhile.csproj", "{639015B4-EA27-4D42-96A1-B7F4CEA84883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabuadaWhile", "..\TabuadaWhile\TabuadaWhile.csproj", "{639015B4-EA27-4D42-96A1-B7F4CEA84883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pesquisa", "..\Pesquisa\Pesquisa.csproj", "{6611A6E3-2526-4798-A833-2A7A176FB3D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pesquisa", "..\Pesquisa\Pesquisa.csproj", "{6611A6E3-2526-4798-A833-2A7A176FB3D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio02_ParOuImpar", "..\Exercicio02_ParOuImpar\Exercicio02_ParOuImpar.csproj", "{01FB5376-4B6E-4C8B-B2B2-5DE3020E6046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio02_ParOuImpar", "..\Exercicio02_ParOuImpar\Exercicio02_ParOuImpar.csproj", "{01FB5376-4B6E-4C8B-B2B2-5DE3020E6046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio04_AnaliseDados", "..\Exercicio04_AnaliseDados\Exercicio04_AnaliseDados.csproj", "{B0895120-7101-4E40-BADA-2CC47ECE046D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio04_AnaliseDados", "..\Exercicio04_AnaliseDados\Exercicio04_AnaliseDados.csproj", "{B0895120-7101-4E40-BADA-2CC47ECE046D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_01", "..\Exercicio_01\Exercicio_01.csproj", "{19C5CFDD-B361-4A16-A93B-5509EF247373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_03", "..\Exercicio_03\Exercicio_03.csproj", "{F54DF127-1DFA-4CBE-910B-3973A1C3C959}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{B0895120-7101-4E40-BADA-2CC47ECE046D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0895120-7101-4E40-BADA-2CC47ECE046D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0895120-7101-4E40-BADA-2CC47ECE046D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C5CFDD-B361-4A16-A93B-5509EF247373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C5CFDD-B361-4A16-A93B-5509EF247373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C5CFDD-B361-4A16-A93B-5509EF247373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C5CFDD-B361-4A16-A93B-5509EF247373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54DF127-1DFA-4CBE-910B-3973A1C3C959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54DF127-1DFA-4CBE-910B-3973A1C3C959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54DF127-1DFA-4CBE-910B-3973A1C3C959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54DF127-1DFA-4CBE-910B-3973A1C3C959}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
