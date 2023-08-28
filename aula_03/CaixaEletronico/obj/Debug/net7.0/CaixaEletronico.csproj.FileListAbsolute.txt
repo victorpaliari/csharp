@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\bin\Debug\net7.0\CaixaEletronico.exe
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\bin\Debug\net7.0\CaixaEletronico.deps.json
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\bin\Debug\net7.0\CaixaEletronico.runtimeconfig.json
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\bin\Debug\net7.0\CaixaEletronico.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\bin\Debug\net7.0\CaixaEletronico.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\CaixaEletronico.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\CaixaEletronico.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\CaixaEletronico.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\refint\CaixaEletronico.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\CaixaEletronico.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\CaixaEletronico.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\CaixaEletronico\obj\Debug\net7.0\ref\CaixaEletronico.dll

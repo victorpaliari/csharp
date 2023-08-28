@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\bin\Debug\net7.0\CaracteristicasAnimais.exe
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\bin\Debug\net7.0\CaracteristicasAnimais.deps.json
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\bin\Debug\net7.0\CaracteristicasAnimais.runtimeconfig.json
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\bin\Debug\net7.0\CaracteristicasAnimais.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\bin\Debug\net7.0\CaracteristicasAnimais.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\CaracteristicasAnimais.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\CaracteristicasAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\CaracteristicasAnimais.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\CaracteristicasAnimais.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\CaracteristicasAnimais.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\CaracteristicasAnimais.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\refint\CaracteristicasAnimais.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\CaracteristicasAnimais.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\CaracteristicasAnimais.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\CaracteristicasAnimais\obj\Debug\net7.0\ref\CaracteristicasAnimais.dll

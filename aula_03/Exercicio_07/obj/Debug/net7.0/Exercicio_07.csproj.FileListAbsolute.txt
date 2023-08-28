@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\bin\Debug\net7.0\Exercicio_07.exe
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\bin\Debug\net7.0\Exercicio_07.deps.json
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\bin\Debug\net7.0\Exercicio_07.runtimeconfig.json
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\bin\Debug\net7.0\Exercicio_07.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\bin\Debug\net7.0\Exercicio_07.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\Exercicio_07.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\Exercicio_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\Exercicio_07.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\Exercicio_07.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\Exercicio_07.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\Exercicio_07.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\refint\Exercicio_07.dll
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\Exercicio_07.pdb
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\Exercicio_07.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\csharp\aula_03\Exercicio_07\obj\Debug\net7.0\ref\Exercicio_07.dll
