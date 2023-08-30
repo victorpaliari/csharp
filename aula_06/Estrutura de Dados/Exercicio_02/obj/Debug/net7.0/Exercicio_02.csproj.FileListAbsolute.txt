@@ -1,0 +1,4 @@
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Estrutura de Dados\Exercicio_02\obj\Debug\net7.0\Exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Estrutura de Dados\Exercicio_02\obj\Debug\net7.0\Exercicio_02.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Estrutura de Dados\Exercicio_02\obj\Debug\net7.0\Exercicio_02.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Estrutura de Dados\Exercicio_02\obj\Debug\net7.0\Exercicio_02.csproj.CoreCompileInputs.cache
