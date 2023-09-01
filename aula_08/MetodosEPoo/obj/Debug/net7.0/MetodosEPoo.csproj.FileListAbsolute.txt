@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\MetodosEPoo.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\MetodosEPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\MetodosEPoo.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\MetodosEPoo.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\MetodosEPoo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\bin\Debug\net7.0\MetodosEPoo.exe
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\bin\Debug\net7.0\MetodosEPoo.deps.json
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\bin\Debug\net7.0\MetodosEPoo.runtimeconfig.json
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\bin\Debug\net7.0\MetodosEPoo.dll
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\bin\Debug\net7.0\MetodosEPoo.pdb
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\MetodosEPoo.dll
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\refint\MetodosEPoo.dll
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\MetodosEPoo.pdb
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\MetodosEPoo.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\csharp\aula_07\MetodosEPoo\obj\Debug\net7.0\ref\MetodosEPoo.dll

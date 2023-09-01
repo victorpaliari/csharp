@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores", "Vetores.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrizes", "..\Matrizes\Matrizes.csproj", "{B5CDC8AE-B6C5-49D0-B2A9-62E045398AC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_01", "..\Exercicio_01\Exercicio_01.csproj", "{429F8FBC-593E-4288-BB12-62B8C59F04A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_01", "..\Exercicio_01\Exercicio_01.csproj", "{429F8FBC-593E-4288-BB12-62B8C59F04A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_03", "..\Exercicio_03\Exercicio_03.csproj", "{912AC78B-D23E-4FDA-A8A6-CA4CDD6643FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_03", "..\Exercicio_03\Exercicio_03.csproj", "{912AC78B-D23E-4FDA-A8A6-CA4CDD6643FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_04", "..\Exercicio_04\Exercicio_04.csproj", "{4D3678CD-9065-4BE3-B5D9-E8E1C9E26C3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{912AC78B-D23E-4FDA-A8A6-CA4CDD6643FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{912AC78B-D23E-4FDA-A8A6-CA4CDD6643FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{912AC78B-D23E-4FDA-A8A6-CA4CDD6643FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3678CD-9065-4BE3-B5D9-E8E1C9E26C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3678CD-9065-4BE3-B5D9-E8E1C9E26C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3678CD-9065-4BE3-B5D9-E8E1C9E26C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3678CD-9065-4BE3-B5D9-E8E1C9E26C3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

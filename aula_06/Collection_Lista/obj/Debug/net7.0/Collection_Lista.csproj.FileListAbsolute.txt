@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\bin\Debug\net7.0\Collection_Lista.exe
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\bin\Debug\net7.0\Collection_Lista.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\bin\Debug\net7.0\Collection_Lista.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\bin\Debug\net7.0\Collection_Lista.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\bin\Debug\net7.0\Collection_Lista.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\Collection_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\Collection_Lista.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\Collection_Lista.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\Collection_Lista.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\Collection_Lista.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\refint\Collection_Lista.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\Collection_Lista.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\Collection_Lista.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\aula_06\Collection_Lista\obj\Debug\net7.0\ref\Collection_Lista.dll
