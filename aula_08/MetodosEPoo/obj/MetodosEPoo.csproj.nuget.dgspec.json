@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\Desktop\\csharp\\aula_07\\MetodosEPoo\\MetodosEPoo.csproj": {}
+    "C:\\Users\\Pichau\\Desktop\\csharp\\aula_08\\MetodosEPoo\\MetodosEPoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\Desktop\\csharp\\aula_07\\MetodosEPoo\\MetodosEPoo.csproj": {
+    "C:\\Users\\Pichau\\Desktop\\csharp\\aula_08\\MetodosEPoo\\MetodosEPoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\csharp\\aula_07\\MetodosEPoo\\MetodosEPoo.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\csharp\\aula_08\\MetodosEPoo\\MetodosEPoo.csproj",
         "projectName": "MetodosEPoo",
-        "projectPath": "C:\\Users\\Pichau\\Desktop\\csharp\\aula_07\\MetodosEPoo\\MetodosEPoo.csproj",
+        "projectPath": "C:\\Users\\Pichau\\Desktop\\csharp\\aula_08\\MetodosEPoo\\MetodosEPoo.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Desktop\\csharp\\aula_07\\MetodosEPoo\\obj\\",
+        "outputPath": "C:\\Users\\Pichau\\Desktop\\csharp\\aula_08\\MetodosEPoo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

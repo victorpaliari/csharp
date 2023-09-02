@@ -98,7 +98,7 @@ namespace MetodosEPoo
 
 
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
             Console.WriteLine("******************************************************");
             Console.WriteLine("Dados do cliente");

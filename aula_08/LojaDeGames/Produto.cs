@@ -17,10 +17,10 @@ namespace LojaDeGames
         public string garantia = String.Empty;
         public string especificacao = String.Empty;
         public decimal preco = 0;
-        public decimal frete = 0;
-        public string notaFiscal = String.Empty;
+        public int frete = 0;
+        //public string notaFiscal = String.Empty;
 
-        public Produto(string nome, string marca, string fabricante, string dataFabricacao, string garantia, string especificacao, decimal preco, decimal frete, string notaFiscal)
+        public Produto(string nome, string marca, string fabricante, string dataFabricacao, string garantia, string especificacao, decimal preco, int frete)
         {
 
             //Método construtor da classe Produto
@@ -33,9 +33,9 @@ namespace LojaDeGames
             this.especificacao = especificacao;
             this.preco = preco;
             this.frete = frete;
-            this.notaFiscal = notaFiscal;
         }
 
+        // Get e Set
 
         public string GetNome()
         {
@@ -108,46 +108,37 @@ namespace LojaDeGames
             return frete;
 
         }
-        public void SetFrete(decimal frete)
+        public void SetFrete(int frete)
         {
-            this.frete = frete;   
-        }
-        public string GetNotaFiscal()
-        {
-            return notaFiscal;
+            this.frete = frete;
+            if (frete == 0)
+            {
+                Console.Write("Não se aplica");
+            }
+
 
         }
-        public void SetNotaFiscal(string notaFiscal)
-        {
-            this.notaFiscal = notaFiscal;
-        }
-
-        public void Visualizar()
+        public virtual void Visualizar()
         {
             Console.WriteLine("******************************************************");
             Console.WriteLine("Dados do Produto");
             Console.WriteLine("******************************************************");
             Console.WriteLine($"{this.nome}");
             Console.WriteLine($"{this.marca}");
-            Console.WriteLine($"Fabricante {fabricante}");
+            Console.WriteLine($"Fabricante: {fabricante}");
             Console.WriteLine($"Data de fabricação: {this.dataFabricacao}");
-            Console.WriteLine($"{garantia}");
-            Console.WriteLine($"{especificacao}");
+            Console.WriteLine($"Garantia de: {garantia}");
+            Console.WriteLine($"Categoria: {especificacao}");
             Console.WriteLine($"Preço: {this.preco.ToString("C")}");
             Console.WriteLine($"Frete: {this.frete.ToString("C")}");
-            Console.WriteLine($"Tipo de nota: {notaFiscal}");
         }
 
-        public void Promocionar()
+        public virtual void Promocionar()
         {   
             decimal promocionar = preco * 0.2M;
             Console.WriteLine($"Leve hoje com 20% de desconto: R$ {this.preco - promocionar}");
             Console.WriteLine($"Você economiza: {promocionar.ToString("C")}");
         }
-        // Get e Set
-
-
-
 
     }
 }
