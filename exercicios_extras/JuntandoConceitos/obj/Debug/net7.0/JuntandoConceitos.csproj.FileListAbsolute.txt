@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\bin\Debug\net7.0\JuntandoConceitos.exe
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\bin\Debug\net7.0\JuntandoConceitos.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\bin\Debug\net7.0\JuntandoConceitos.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\bin\Debug\net7.0\JuntandoConceitos.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\bin\Debug\net7.0\JuntandoConceitos.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\JuntandoConceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\JuntandoConceitos.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\JuntandoConceitos.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\JuntandoConceitos.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\JuntandoConceitos.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\refint\JuntandoConceitos.dll
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\JuntandoConceitos.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\JuntandoConceitos.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\csharp\exercicios_extras\JuntandoConceitos\obj\Debug\net7.0\ref\JuntandoConceitos.dll
